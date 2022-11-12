@@ -5,6 +5,7 @@
   <test thread-count="5" name="All Test">
 <classes>
 <class name="testRunner.TestRunnerwithTestNG"></class>
+  <class name="testRunner.TestRunnerwithTestNG"></class>
 </classes>
   </test> 
 </suite> 
